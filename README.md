@@ -2,6 +2,10 @@
 
 Juego tipo Breakout desarrollado con JavaScript y HTML5 Canvas.
 
+## 🌐 Demo
+
+👉 [Ver juego online](https://aruizzapata.github.io/breakout-game/)
+
 ## 🎮 Descripción
 
 Proyecto web en el que el jugador controla una paleta para mantener una pelota en movimiento y destruir todos los bloques de la pantalla.
